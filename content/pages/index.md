@@ -62,7 +62,7 @@ sections:
         url: /blog
         style: primary
     showRecent: true
-    recentCount: 3
+    recentCount: 0
     styles:
       self:
         height: auto
