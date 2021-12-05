@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     variant: variant-a
     colors: colors-a
-    title: Latest news
+    title: Blog
     subtitle: Latest blog posts section example
     actions:
       - type: Button
