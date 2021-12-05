@@ -37,4 +37,5 @@ sections:
       actions:
         justifyContent: center
     type: PostFeedSection
+    readOnly: 
 ---
