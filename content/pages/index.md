@@ -85,6 +85,7 @@ sections:
       actions:
         justifyContent: center
     type: PostFeedSection
+    readOnly: true
   - elementId: ''
     colors: colors-f
     title: Where did everyone go?
